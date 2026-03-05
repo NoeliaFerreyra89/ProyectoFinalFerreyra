@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bariloche",
+    "precioBase": 120,
+    "alojamiento": {
+      "standard": 1,
+      "premium": 1.4,
+      "lujo": 1.8
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Cataratas",
+    "precioBase": 150,
+    "alojamiento": {
+      "standard": 1,
+      "premium": 1.3,
+      "lujo": 1.7
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Mendoza",
+    "precioBase": 100,
+    "alojamiento": {
+      "standard": 1,
+      "premium": 1.2,
+      "lujo": 1.6
+    }
+  }
+]
